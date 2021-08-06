@@ -44,7 +44,7 @@
 
 - Interfaces de Comunicação
 
-    RIE-401 - [ALTA] - O sistema deverá se comunicar por meio de uma API REST, utilizando o protocolo HTTP.
+    RIE-401 - [ALTA] - O sistema deverá se comunicar por meio de uma API REST, utilizando o protocolo HTTPS.
 
     RIE-402 - [ALTA] - Os dados enviados entre os módulos do sistema deverão ser no formato JSON.
 
@@ -64,7 +64,7 @@
 
     RNF-402 - [ALTA] - Os imports devem estar ordenados em ordem alfabética.
 
-    RNF-403 - [ALTA] - Partes do nome de uma variável podem ser separadas por underscore (com todas as letras maiúsculas ou minúsculas) ou todas juntas com a primeira letra de cada parte em maiúscula – underscore no início costuma indicar que o atributo é de uso interno, dois indicam atributo privado da classe e dois no início e no fim são de atributos ou objetos especiais
+    RNF-403 - [ALTA] - Partes do nome de uma variável podem ser separadas por underscore (com todas as letras maiúsculas ou minúsculas) ou todas juntas com a primeira letra de cada parte em maiúscula
 
     RNF-404 - [ALTA] - Nomes de classe devem usar o padrão de PalavrasComecandoPorMaiuscula, tal qual o nome de seu arquivo
 
